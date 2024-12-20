@@ -32,12 +32,11 @@
   - Đối với ban tổ chức sự kiện:
     * Tăng cường hiệu quả quảng bá và tiếp cận đối tượng mục tiêu.
     * Quản lý doanh thu và dữ liệu khách hàng hiệu quả hơn.
-# 6. Thành viên:
-  - Nguyễn Thị Cẩm Tú - 22010230
-  - Phạm Thị Vân Anh - 22010048
-  - Trần Thị Thùy Trang - 22010294
 # 6. Ngôn ngữ sử dụng:  
   - Fontend: Dart (Flutter)
   - Backend: Java, PHP, MySQL, Lavavel
-
+# 7. Thành viên:
+  - Nguyễn Thị Cẩm Tú - 22010230
+  - Phạm Thị Vân Anh - 22010048
+  - Trần Thị Thùy Trang - 22010294
 
