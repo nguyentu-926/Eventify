@@ -1,4 +1,4 @@
-# Eventify
+# Eventify 
 
 # 1. Mô tả dự án 
   - Ứng dụng Eventify là một nền tảng trung gian kết nối giữa ban tổ chức sự kiện và người dùng có nhu cầu giải trí. Với một kệ sinh thái phong phú, đa dạng các sự kiện âm nhạc, gameshow, hài kịch, sự kiện văn hóa,.....
