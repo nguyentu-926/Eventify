@@ -32,3 +32,9 @@
   - Đối với ban tổ chức sự kiện:
     * Tăng cường hiệu quả quảng bá và tiếp cận đối tượng mục tiêu.
     * Quản lý doanh thu và dữ liệu khách hàng hiệu quả hơn.
+
+# 6. Ngôn ngữ sử dụng:  
+  - Fontend: Dart (Flutter)
+  - Backend: Java, PHP, MySQL, Lavavel
+
+
