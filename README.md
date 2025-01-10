@@ -35,7 +35,9 @@
 # 6. Ngôn ngữ sử dụng:  
   - Fontend: Dart (Flutter)
   - Backend: Java, PHP, MySQL, Lavavel
-# 7. Thành viên:
+# 7. Sơ đồ usecase
+  https://drive.google.com/file/d/1SRqKXjibiE1RJMkmA3PqcXFcMIgvmJcA/view?usp=sharing
+# 8. Thành viên:
   - Nguyễn Thị Cẩm Tú - 22010230
   - Phạm Thị Vân Anh - 22010048
   - Trần Thị Thùy Trang - 22010294
