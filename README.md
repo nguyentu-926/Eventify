@@ -37,7 +37,9 @@
   - Backend: Java, PHP, MySQL, Lavavel
 # 7. Sơ đồ usecase
   https://drive.google.com/file/d/1SRqKXjibiE1RJMkmA3PqcXFcMIgvmJcA/view?usp=sharing
-# 8. Thành viên:
+# 8. Bản báo cáo
+  https://docs.google.com/document/d/1b2bOx1JqmCQatUFQILeR38SwcXXTn6oY80v4So5DEYc/edit?usp=sharing
+# 9. Thành viên:
   - Nguyễn Thị Cẩm Tú - 22010230
   - Phạm Thị Vân Anh - 22010048
   - Trần Thị Thùy Trang - 22010294
