@@ -33,8 +33,7 @@
     * Tăng cường hiệu quả quảng bá và tiếp cận đối tượng mục tiêu.
     * Quản lý doanh thu và dữ liệu khách hàng hiệu quả hơn.
 # 6. Ngôn ngữ sử dụng:  
-  - Fontend: Dart (Flutter)
-  - Backend: Java, PHP, MySQL, Lavavel
+  - Java, PHP, MySQL, Lavavel
 # 7. Sơ đồ usecase
   https://drive.google.com/file/d/1SRqKXjibiE1RJMkmA3PqcXFcMIgvmJcA/view?usp=sharing
 # 8. Bản báo cáo
